@@ -7,9 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'brand-bg': '#fdf1e2',
-        'brand-accent': '#e8492a',
-        'brand-text': '#342626',
+        'brand-bg': '#f8fafc', // bg-slate-50
+        'brand-accent': '#f97316', // orange-500
+        'brand-text-dark': '#1e293b', // slate-800
+        'brand-text-light': '#64748b', // slate-500
       },
     },
   },
